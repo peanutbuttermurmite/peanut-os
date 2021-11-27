@@ -9,6 +9,7 @@ peanut-tools
 AND MORE!
 ```
 Features:
+```
 Customised version of lxde with:
 Animated launcher written in python
 Animated dock
@@ -19,3 +20,4 @@ ISO for x86_64, x86 and ARM
 PeanutPi Edition
 Optimised for Virtual Machines
 Custom Openbox peanut theme
+```
